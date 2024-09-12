@@ -26,7 +26,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/Animesh508/Awak-login-page.git
+git clone https://github.com/MANISHPRASAD-1/Awakcdacassignment.git
 Navigate to the project directory:
 
 bash
@@ -56,4 +56,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgements
 Font Awesome: For icons used in the password visibility toggle.
 Ionicons: For icons used in the form fields.
-Replace https://github.com/Animesh508/Awak-login-page.git and Awak-login-page with the actual URL of your GitHub repository and the directory name where the project is located, respectively. This README provides a comprehensive overview of your project and instructions for users and contributors.
+Replace https://github.com/MANISHPRASAD-1/Awakcdacassignment.git and Awak-login-page with the actual URL of your GitHub repository and the directory name where the project is located, respectively. This README provides a comprehensive overview of your project and instructions for users and contributors.
